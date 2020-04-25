@@ -12,6 +12,8 @@ Rules for using
 7.Although to login in a email it may give authentication errors
 so just turn off less secure option via link:>>>>>>https://myaccount.google.com/lesssecureapps
 and also this:>>>>>>> https://accounts.google.com/DisplayUnlockCaptcha
+8.to stop script just enter command in other terminal/cmd 
+"killall python"
 
 
 Then you are good to goo
